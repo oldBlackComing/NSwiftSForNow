@@ -272,3 +272,5 @@ if allItemsMatch(tos1, aos1) {
 } else {
     print("元素不匹配")
 }
+
+extension Array: Container {}
